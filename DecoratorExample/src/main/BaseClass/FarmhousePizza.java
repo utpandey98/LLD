@@ -1,4 +1,4 @@
-package BaseClass;
+package main.BaseClass;
 
 public class FarmhousePizza extends BasePizza {
 

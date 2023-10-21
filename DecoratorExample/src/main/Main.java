@@ -1,7 +1,9 @@
-import BaseClass.BasePizza;
-import BaseClass.MargheritaPizza;
-import Decorator.ExtraCheese;
-import Decorator.ExtraTomato;
+package main;
+
+import main.BaseClass.BasePizza;
+import main.BaseClass.MargheritaPizza;
+import main.Decorator.ExtraCheese;
+import main.Decorator.ExtraTomato;
 
 public class Main {
     public static void main(String ... args) {

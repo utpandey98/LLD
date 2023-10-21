@@ -1,6 +1,6 @@
-package Decorator;
+package main.Decorator;
 
-import BaseClass.BasePizza;
+import main.BaseClass.BasePizza;
 
 public class ExtraTomato extends ToppingsDecorator {
 
